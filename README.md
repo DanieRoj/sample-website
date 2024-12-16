@@ -109,6 +109,16 @@ h1{
     font-family: var(--secondary-font);
 }
 
+h2{
+    font-size: 2.25rem;
+    line-height: 4.25rem;
+    font-weight: 700;
+    color: var(--text-white);
+    margin-bottom: 1.25rem;
+    text-transform: uppercase;
+    font-family: var(--secondary-font);
+}
+
 h3 {
     margin-bottom: 1.875rem;
     line-height: 2.875rem;
@@ -117,6 +127,16 @@ h3 {
     color: var(--primary-text);
     font-family: var(--secondary-font);
 }
+
+h4 {
+    margin-bottom: 1.5rem;
+    line-height: 2.875rem;
+    font-weight: 700;
+    font-size: 2.25rem;
+    color: var(--primary-text);
+    font-family: var(--secondary-font);
+}
+
 
 h3 span
 {
